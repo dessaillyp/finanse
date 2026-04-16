@@ -1,0 +1,10 @@
+{
+  "name": "finanse-frontend",
+  "version": "1.0.0",
+  "description": "Finanse — Dashboard financiero personal",
+  "scripts": {
+    "dev": "npx serve . -p 5173",
+    "build": "echo 'Static app — no build needed. Deploy index.html + src/'"
+  },
+  "dependencies": {}
+}
